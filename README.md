@@ -1,4 +1,4 @@
-## ATM-Transfter-Frebby
+## ATM-Transfer-Frebby
 
 #### Steps For ATM Transfer
 
